@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d15695d.css",
+    "main.js": "/static/js/main.fcc0d0db.js",
+    "static/media/s4.png": "/static/media/s4.80ed4c968f758e1da23e.png",
+    "static/media/laptopuse.png": "/static/media/laptopuse.731438233d85aff6370b.png",
+    "static/media/s1.png": "/static/media/s1.d4abedad69bc3bfe7e94.png",
+    "static/media/s5.png": "/static/media/s5.c885a2098a9c90e2c8ab.png",
+    "static/media/mainFooterImg.png": "/static/media/mainFooterImg.19d45603bdda4ec2ee85.png",
+    "static/media/s2.png": "/static/media/s2.0fdf1f4fbd03159d7ba3.png",
+    "static/media/vectusHeader.png": "/static/media/vectusHeader.cdd87a05d35c312ab8bf.png",
+    "static/media/s6.png": "/static/media/s6.dd6c5adbdc99de024ce8.png",
+    "static/media/laptop.png": "/static/media/laptop.e70b53b4a380a6b33333.png",
+    "static/media/uzb.svg": "/static/media/uzb.cc25646fb4e5187a97252b9039ed746a.svg",
+    "static/media/s3.png": "/static/media/s3.0864989c828ed01678a1.png",
+    "static/media/m1.png": "/static/media/m1.e535fca89d648caaf571.png",
+    "static/media/m4.png": "/static/media/m4.e42063f46de2fbce3c3d.png",
+    "static/media/headerCategoryTv.png": "/static/media/headerCategoryTv.433d649ce96b8b390c4d.png",
+    "static/media/acer.png": "/static/media/acer.878535013aaf08b39dea.png",
+    "static/media/m3.png": "/static/media/m3.c59ea99a4d069cbe612d.png",
+    "static/media/victus.png": "/static/media/victus.3a977623be6cb3b1d01f.png",
+    "static/media/headerCategoryPhone.png": "/static/media/headerCategoryPhone.36170f7f9a51f3e659d9.png",
+    "static/media/tufgaming.png": "/static/media/tufgaming.c44cc0d8a8e1f03e35c1.png",
+    "static/media/headerCategoryNot.png": "/static/media/headerCategoryNot.f2a752458e3afaadcda0.png",
+    "static/media/headerCategoryAcses.png": "/static/media/headerCategoryAcses.d51cceaf90dd5d8e491b.png",
+    "static/media/christmas-snowflake-winter-free-png.png": "/static/media/christmas-snowflake-winter-free-png.9106ff9975ee81780280.png",
+    "static/media/googleplay.svg": "/static/media/googleplay.59849d728166d69aad8c4d983fc1f737.svg",
+    "static/media/shopIcon.svg": "/static/media/shopIcon.f94e5d43cc80620f72a95bfcaa3c176b.svg",
+    "static/media/apppleicon.svg": "/static/media/apppleicon.a477825b70414d4e72ebde71640a6af3.svg",
+    "static/media/profilIcon.svg": "/static/media/profilIcon.68f6b2226d528d0b1946e419a323ec2c.svg",
+    "index.html": "/index.html",
+    "main.2d15695d.css.map": "/static/css/main.2d15695d.css.map",
+    "main.fcc0d0db.js.map": "/static/js/main.fcc0d0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d15695d.css",
+    "static/js/main.fcc0d0db.js"
+  ]
+}
